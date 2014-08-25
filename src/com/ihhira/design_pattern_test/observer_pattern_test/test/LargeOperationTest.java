@@ -5,7 +5,7 @@ import com.ihhira.design_pattern_test.observer_pattern_test.core.LargeOperation;
 /**
  * created on 8/25/14.
  *
- * @author Md Imran Hasan Hira (hasan.hira@konasl.com)
+ * @author Md Imran Hasan Hira (imranhasanhira@gmail.com)
  */
 public class LargeOperationTest {
 
