@@ -1,6 +1,6 @@
-package com.ihhira.design_pattern_test.observer_pattern_test.test;
+package com.ihhira.dptest.observer_pattern_test.test;
 
-import com.ihhira.design_pattern_test.observer_pattern_test.core.LargeOperationEventListener;
+import com.ihhira.dptest.observer_pattern_test.core.LargeOperationEventListener;
 
 /**
  * created on 8/25/14.
